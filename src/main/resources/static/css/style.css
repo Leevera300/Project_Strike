@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+a, a:hover {text-decoration:none; color:#000;}
+
+header {
+		position: fixed;
+  		top: 0;
+  		width: 100%;
+		z-index: 100;}
+
+.contents {padding-top: 3.751rem}
+		
+.sign-up-box {width:650px; background-color:#ebebeb; margin-top:20px; box-shadow:5px 5px 5px 5px #BDC0C0;}
+.sign-up-subject {margin:20px; font-weight:bold;}
+
+.shadow-box {width:550px; background-color:#ebebeb; margin-top:20px; box-shadow:5px 5px 5px 5px #BDC0C0;}
+.login-box {width:400px;}
+
+.contents-box {width:650px;}
+
+#writeTextArea {height:100px;}
+
+.comment-input {width:565px;}
+
+.menu{
+	height:80px; 
+	position: fixed;
+  	width: 100%;
+	z-index: 100;
+}
